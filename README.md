@@ -5,7 +5,8 @@ Traitement des adresses Internet
 - Le Mode connecté
 - Socket Client
 - Socket serveur
-- Serveur multi-clients
-- Récupérer HTML à partir d'une adresse IP
+- Serveur multi-clients.
+- Serveur en écoute pour délivrer la date courant.
 
-Select.c : C est un serveur Multi Client implémenté avec la fonction "select" et non pas par le multiThreading.
+
+Select.c : C est un serveur Multi Client implémenté avec la fonction "select" et non pas par le multiThreading
