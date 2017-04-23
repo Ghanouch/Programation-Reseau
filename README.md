@@ -6,5 +6,6 @@ Traitement des adresses Internet
 - Socket Client
 - Socket serveur
 - Serveur multi-clients
+- Récupérer HTML à partir d'une adresse IP
 
-Select.c : C est un serveur Multi Client implémenté avec la fonction "select" et non pas par le multiThreading
+Select.c : C est un serveur Multi Client implémenté avec la fonction "select" et non pas par le multiThreading.
